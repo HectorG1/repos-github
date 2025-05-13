@@ -1,0 +1,26 @@
+{
+
+  "title": "{{username}}'s Github Repositories",
+  "titleFavorite": "Favorite Repositories",
+  "changeUser": "Change user",
+  "showFavorites": "Show favorites",
+  "showThem": "Show them",
+  "hideThem": "Hide them",
+  "showAll": "Show all",
+  "noFavorites": "No favorites repositories found",
+  "errorFavorites": "Does not have any favorite repository yet",
+  "noRepositories": "No repositories found",
+  "errorDescription": "Maybe the user does not have any repository or the user does not exist",
+  "alreadyHaveFavorites": "Hey cool, You already have favorite repositories!",
+  "footerText": "This project uses the public GitHub API. It is not affiliated with or endorsed by GitHub Inc.",
+  "form": {
+    "title": "Find repositories on GitHub and save your favorites",
+    "username": "Github user",
+    "search": "Search"
+  },
+  "card": {
+    "viewRepo": "View repository",
+    "addFavorite": "Add to favorites",
+    "remove": "Remove"
+  }
+}
